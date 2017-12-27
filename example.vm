@@ -1,0 +1,3 @@
+#set( $total = 10000000000)
+#set( $currency = "EUR")
+$formatter.convertCurrency($currency, $total)
